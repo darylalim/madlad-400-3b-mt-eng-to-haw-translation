@@ -1,2 +1,2 @@
-# MADLAD-400-3B-MT English-to-Hawaiian Translation
- Translate English text to Hawaiian.
+# MADLAD-400 Translation
+ Translate English text to over 400 languages.
